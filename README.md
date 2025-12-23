@@ -90,12 +90,12 @@
 
 ## 🏗️ 시스템 아키텍처 (System Architecture)
 
-
-
 * **Backend:** Spring Boot 기반의 REST API 서버 및 WebSocket 메시지 브로커 구축.
 * **Frontend:** Vue 3 Composition API와 Pinia 상태 관리, Phaser 3 게임 엔진 활용.
 * **AI/Data:** Python 프로세스 연동을 통한 이기종 언어 간 통신 구현.
 * **Infra:** AWS EC2 기반 단일 서버 환경에서 서비스 배포 및 운영.
+
+![System Architecture](.assets//architecture.png)
 
 ---
 
