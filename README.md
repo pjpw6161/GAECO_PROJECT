@@ -26,9 +26,9 @@
 | Role | Name | Position & Responsibility | Github |
 |:---:|:---:|:---|:---:|
 | **Leader** | **박지원** | Backend,Frontend | [@username](https://github.com/) |
-![MEMBER1](./assets/member1.png)
+![MEMBER1](./assets/Member1.png)
 | **Member** | **신현성** | Backend,Frontend | [@username](https://github.com/) |
-![MEMBER2](./assets/member2.png)
+![MEMBER2](./assets/Member2.png)
 ---
 
 ## ✨ 기능 소개 (Key Features)
