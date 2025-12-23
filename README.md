@@ -19,8 +19,7 @@
 ---
 
 ## 📸 프로젝트 메인 이미지
-![Main Screenshot](./assets/GAECO_MAIN.png)
-
+<img src="./assets/GAECO_MAIN.png" width="800" height="600">
 ---
 
 ## 👨‍💻 팀원 소개
