@@ -95,7 +95,7 @@
 * **AI/Data:** Python 프로세스 연동을 통한 이기종 언어 간 통신 구현.
 * **Infra:** AWS EC2 기반 단일 서버 환경에서 서비스 배포 및 운영.
 
-![System Architecture](.assets//architecture.png)
+![System Architecture](./assets//architecture.png)
 
 ---
 
