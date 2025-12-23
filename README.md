@@ -50,7 +50,7 @@
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-![Architecture](./assets/ToolStack.png)
+![Architecture](./assets/ToolStack.png) |
 
 ---
 ## 📡 User Flow 
