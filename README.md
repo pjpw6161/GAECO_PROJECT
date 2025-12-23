@@ -34,35 +34,35 @@
 
 ## ✨ 기능 소개 (Key Features)
 
-| home | signup |
+| 홈 페이지 | 회원가입 |
 | :---: | :---: |
 | ![](./assets/gif/home.gif) | ![](./assets/gif/signup.gif)  |
 
-| food | setting |
+| 식단 | 설정 |
 | :---: | :---: |
 | ![](./assets/gif/food.gif) | ![](./assets/gif/setting.gif) |
 
-| mypage_shop | quest |
+| 마이페이지 | 퀘스트 |
 | :---: | :---: |
 | ![](./assets/gif/mypage_shop.gif) | ![](./assets/gif/quest.gif) |
 
-| game_pvp | guild_room |
+| 미니게임 PvP | 길드룸 |
 | :---: | :---: |
 | ![](./assets/gif/game_pvp.gif) | ![](./assets/gif/guild_room.gif) |
 
-| guild_chat | guild_aichat |
+| 길드 채팅 | 길드 AI 챗봇 |
 | :---: | :---: |
 | ![](./assets/gif/guild_chat.gif) | ![](./assets/gif/guild_aichat.gif) |
 
-| guild_draw | guild_game |
+| 길드 스케치북 | 길드 게임 |
 | :---: | :---: |
 | ![](./assets/gif/guild_draw.gif) | ![](./assets/gif/guild_game.gif) |
 
-| party_raid | party_friend_chat |
+| 파티 레이드 | 채팅 |
 | :---: | :---: |
 | ![](./assets/gif/party_raid.gif) | ![](./assets/gif/party_friend_chat.gif) |
 
-| minigame_rhythm | minigame_tetris |
+| 미니게임(리듬) | 미니게임(테트리스) |
 | :---: | :---: |
 | ![](./assets/gif/minigame_rhythm.gif) | ![](./assets/gif/minigame_tetris.gif) |
 
