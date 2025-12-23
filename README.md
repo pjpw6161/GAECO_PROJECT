@@ -23,11 +23,11 @@
 
 ## 👨‍💻 팀원 소개
 
-| Role | Name | Position & Responsibility | Github |
-|:---:|:---:|:---|:---:|
-| **Leader** | **박지원** | Backend,Frontend | [@username](https://github.com/) |
+| Role | Name |  Github |
+|:---:|:---:|:---:|
+| **Leader** | **박지원**  | [@username](https://github.com/) |
 ![MEMBER1](./assets/Member1.png)
-| **Member** | **신현성** | Backend,Frontend | [@username](https://github.com/) |
+| **Member** | **신현성**  | [@username](https://github.com/) |
 ![MEMBER2](./assets/Member2.png)
 ---
 
