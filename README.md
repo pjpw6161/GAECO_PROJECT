@@ -78,6 +78,6 @@
 ## 📚 프로젝트 산출물
 * 📑 [요구사항 정의서 및 다이어그램](https://rift-lily-9b7.notion.site/2ab43ea273fc81eca8e8c1a852d9dd25?pvs=73)
 * 🎨 [Convention](https://rift-lily-9b7.notion.site/2d243ea273fc81b691f8fd7a807117b1)
-* 📡 [User Flow](./assets/UserFlow.png)
+* 📡 ![User Flow](./assets/UserFlow.png)
 ---
 
