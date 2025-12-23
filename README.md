@@ -49,7 +49,6 @@
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-### Backend
 ![Architecture](./assets/ToolStack.png)
 
 ---
