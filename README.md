@@ -34,29 +34,38 @@
 
 ## ✨ 기능 소개 (Key Features)
 
-| home | login | signup | setting |
-| :---: | :---: | :---: | :---: |
-| ![](./assets/gif/home.gif) | ![](./assets/gif/login.gif) | ![](./assets/gif/signup.gif) | ![](./assets/gif/setting.gif) |
-
-| mypage_shop | food | alarm | quest |
-| :---: | :---: | :---: | :---: |
-| ![](./assets/gif/mypage_shop.gif) | ![](./assets/gif/food.gif) | ![](./assets/gif/alarm.gif) | ![](./assets/gif/quest.gif) |
-
-| guild_room | guild_chat | guild_aichat | guild_draw |
-| :---: | :---: | :---: | :---: |
-| ![](./assets/gif/guild_room.gif) | ![](./assets/gif/guild_chat.gif) | ![](./assets/gif/guild_aichat.gif) | ![](./assets/gif/guild_draw.gif) |
-
-| guild_game | guild_music | game_pvp | party_friend_chat |
-| :---: | :---: | :---: | :---: |
-| ![](./assets/gif/guild_game.gif) | ![](./assets/gif/guild_music.gif) | ![](./assets/gif/game_pvp.gif) | ![](./assets/gif/party_friend_chat.gif) |
-
-| party_raid | minigame_hockey | minigame_lemon |
+| home | login | signup |
 | :---: | :---: | :---: |
-| ![](./assets/gif/party_raid.gif) | ![](./assets/gif/minigame_hockey.gif) | ![](./assets/gif/minigame_lemon.gif) |
+| ![](./assets/gif/home.gif) | ![](./assets/gif/login.gif) | ![](./assets/gif/signup.gif) |
 
-| minigame_reaction | minigame_rhythm | minigame_tetris |
+| setting | mypage_shop | food |
 | :---: | :---: | :---: |
-| ![](./assets/gif/minigame_reaction.gif) | ![](./assets/gif/minigame_rhythm.gif) | ![](./assets/gif/minigame_tetris.gif) |
+| ![](./assets/gif/setting.gif) | ![](./assets/gif/mypage_shop.gif) | ![](./assets/gif/food.gif) |
+
+| alarm | quest | game_pvp |
+| :---: | :---: | :---: |
+| ![](./assets/gif/alarm.gif) | ![](./assets/gif/quest.gif) | ![](./assets/gif/game_pvp.gif) |
+
+| guild_room | guild_chat | guild_aichat |
+| :---: | :---: | :---: |
+| ![](./assets/gif/guild_room.gif) | ![](./assets/gif/guild_chat.gif) | ![](./assets/gif/guild_aichat.gif) |
+
+| guild_draw | guild_game | guild_music |
+| :---: | :---: | :---: |
+| ![](./assets/gif/guild_draw.gif) | ![](./assets/gif/guild_game.gif) | ![](./assets/gif/guild_music.gif) |
+
+| party_friend_chat | party_raid | minigame_hockey |
+| :---: | :---: | :---: |
+| ![](./assets/gif/party_friend_chat.gif) | ![](./assets/gif/party_raid.gif) | ![](./assets/gif/minigame_hockey.gif) |
+
+| minigame_lemon | minigame_reaction | minigame_rhythm |
+| :---: | :---: | :---: |
+| ![](./assets/gif/minigame_lemon.gif) | ![](./assets/gif/minigame_reaction.gif) | ![](./assets/gif/minigame_rhythm.gif) |
+
+| minigame_tetris |
+| :---: |
+| ![](./assets/gif/minigame_tetris.gif) |
+
 
 ---
 
