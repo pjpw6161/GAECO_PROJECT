@@ -6,6 +6,7 @@
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-ORM-000000?style=flat&logo=mybatis&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite&logoColor=white)
@@ -13,12 +14,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Phaser](https://img.shields.io/badge/Phaser-3-6C2DC7?style=flat&logo=phaser&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-State_Management-FFD700?style=flat&logo=pinia&logoColor=black)
 
 ![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai&logoColor=white)
 
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-1.24-009639?style=flat&logo=nginx&logoColor=white)
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2024-000000?style=flat&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Latest-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-Workspace-000000?style=flat&logo=notion&logoColor=white)
@@ -90,9 +93,9 @@
 
 
 * **Backend:** Spring Boot 기반의 REST API 서버 및 WebSocket 메시지 브로커 구축.
-* **Frontend:** Vue 3 Composition API와 Pinia 상태 관리, Phaser 3 게임 엔진 활용..
+* **Frontend:** Vue 3 Composition API와 Pinia 상태 관리, Phaser 3 게임 엔진 활용.
 * **AI/Data:** Python 프로세스 연동을 통한 이기종 언어 간 통신 구현.
-* **Infra:** AWS EC2, Docker, Jenkins를 활용한 CI/CD 파이프라인 구축.
+* **Infra:** AWS EC2 기반 단일 서버 환경에서 서비스 배포 및 운영.
 
 ---
 
