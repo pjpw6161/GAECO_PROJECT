@@ -25,12 +25,11 @@
 
 ## 👨‍💻 팀원 소개
 
-| Role | Name |  Github |
-|:---:|:---:|:---:|
-| **Leader** | **박지원**  | [@username](https://github.com/) |
-<img src="./assets/Member1.jpg" width="150" height="150">
-| **Member** | **신현성**  | [@username](https://github.com/) |
-![MEMBER2](./assets/Member2.png)
+
+| Role | Name | Github | Photo |
+|:---:|:---:|:---:|:---:|
+| **Leader** | **박지원** | [@username](https://github.com/) | <img src="./assets/Member1.jpg" width="100"> |
+| **Member** | **신현성** | [@username](https://github.com/) | <img src="./assets/Member2.png" width="100"> |
 ---
 
 ## ✨ 기능 소개 (Key Features)
