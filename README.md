@@ -58,5 +58,6 @@
 ## 📚 프로젝트 산출물
 * 📑 [요구사항 정의서 및 다이어그램](https://rift-lily-9b7.notion.site/2ab43ea273fc81eca8e8c1a852d9dd25?pvs=73)
 * 🎨 [Convention](https://rift-lily-9b7.notion.site/2d243ea273fc81b691f8fd7a807117b1)
+* 🎨 [일정관리](https://file.notion.so/f/f/0f6b126a-4dbc-4ccc-b718-482769a8cb77/956eff65-43ea-449b-bd97-1a055ce97c18/Schedule.png?table=block&id=2d243ea2-73fc-800f-9db2-d71656743042&spaceId=0f6b126a-4dbc-4ccc-b718-482769a8cb77&expirationTimestamp=1766484000000&signature=500vuvMuKo2C_dBG0CCG8ohI1aZVx1GFciOJWRARtvs&downloadName=Schedule.png)
 ---
 
