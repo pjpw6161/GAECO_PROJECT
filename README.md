@@ -11,13 +11,13 @@
 **GAECO**는 건강 관리(식단, 운동)에 RPG 게임 요소와 실시간 메타버스를 결합하여 지속 가능한 동기를 부여하는 웹 서비스입니다.
 사용자는 AI 비서의 도움을 받아 간편하게 식단을 기록하고, 길드원들과 실시간 아지트에서 소통하며 함께 성장할 수 있습니다.
 
-* **개발 기간:** 2024.XX.XX ~ 2024.XX.XX (약 X주)
-* **개발 인원:** 0명 (Back-end, Front-end, Infra)
+* **개발 기간:** 2025.11.25 ~ 2025.12.24 (약 4주)
+* **개발 인원:** 2명 
 
 ---
 
 ## 📸 프로젝트 메인 이미지
-![Main Screenshot](./assets/main_banner.png)
+![Main Screenshot](./assets/GAECO_MAIN.png)
 
 ---
 
@@ -25,42 +25,20 @@
 
 | Role | Name | Position & Responsibility | Github |
 |:---:|:---:|:---|:---:|
-| **Leader** | **OOO** | Backend, CI/CD | [@username](https://github.com/) |
-| **Member** | **OOO** | Frontend (Vue, Phaser) | [@username](https://github.com/) |
-| **Member** | **OOO** | Backend, AI Modeling | [@username](https://github.com/) |
-| **Member** | **OOO** | Frontend, UI/UX | [@username](https://github.com/) |
-
+| **Leader** | **박지원** | Backend,Frontend | [@username](https://github.com/) |
+![MEMBER1](./assets/member1.png)
+| **Member** | **신현성** | Backend,Frontend | [@username](https://github.com/) |
+![MEMBER2](./assets/member2.png)
 ---
 
-## ✨ 핵심 기능 (Key Features)
+## ✨ 기능 소개 (Key Features)
 
-### 1. 🥗 AI 기반 식단 분석 및 성장 시스템
-![Diet Analysis](./assets/diet.gif)
-* **AI Vision Analysis:** Java `ProcessBuilder`와 Python 스크립트를 연동하여 OpenAI Vision API 호출.
-* **RAG Reward System:** 벡터 DB 데이터를 기반으로 영양 성분에 따른 경험치/골드 차등 지급.
-* **Quest Automation:** `Spring Scheduler(Cron)`를 활용한 매일 자정 일일 퀘스트 초기화.
-
-### 2. 🏠 WebSocket 기반 실시간 길드 아지트
-![Guild Room](./assets/guild_room.gif)
-* **Real-time Interaction:** `WebSocket(STOMP)`을 활용한 캐릭터 이동 및 채팅 동기화.
-* **Phaser 3 Engine:** 웹 기반 2.5D 그래픽 렌더링 및 파티클 시스템(날씨) 구현.
-* **AI Secretary:** "비서야" 호출 시 OpenAI API와 연동된 페르소나 챗봇 응답.
-
-### 3. 🎵 인터랙티브 도구 (주크박스 & 화이트보드)
-![Jukebox & Board](./assets/interactive.gif)
-* **Jukebox Sync:** YouTube API 활용 및 입장 시점(Timestamp) 계산을 통한 재생 구간 동기화 (`seekTo`).
-* **Live Whiteboard:** HTML5 Canvas 좌표 데이터 공유 및 마우스 이벤트 쓰로틀링(Throttling) 최적화.
-
-### 4. 🛠️ 아지트 커스터마이징 (하우징)
-![Housing](./assets/housing.gif)
-* **Grid Snapping:** 32px 단위 그리드 시스템을 적용한 정교한 가구 배치.
-* **Serialization:** 배치된 수백 개의 타일 객체를 JSON 직렬화하여 DB 저장 및 로드.
 
 ---
 
 ## 🏗️ 시스템 아키텍처 (System Architecture)
 
-![Architecture](./assets/architecture_diagram.png)
+![Architecture](./assets/ToolStack.png)
 
 * **Backend:** Spring Boot 기반의 REST API 서버 및 WebSocket 메시지 브로커 구축.
 * **Frontend:** Vue 3 Composition API와 Pinia 상태 관리, Phaser 3 게임 엔진 활용.
@@ -98,16 +76,8 @@
 ---
 
 ## 📚 프로젝트 산출물
-* 📑 [요구사항 정의서](./docs/requirements.pdf)
-* 🎨 [Figma 디자인](https://www.figma.com/)
-* 🗄️ [ERD 설계도](./docs/erd.png)
-* 📡 [API 명세서 (Notion)](https://notion.so/)
-
+* 📑 [요구사항 정의서 및 다이어그램](https://rift-lily-9b7.notion.site/2ab43ea273fc81eca8e8c1a852d9dd25?pvs=73)
+* 🎨 [Convention](https://rift-lily-9b7.notion.site/2d243ea273fc81b691f8fd7a807117b1)
+* 📡 [User Flow](./assets/UserFlow.png)
 ---
 
-## 🚀 시작하기 (Getting Started)
-
-### Backend
-```bash
-$git clone [https://github.com/username/project-backend.git$](https://github.com/username/project-backend.git$) cd project-backend
-$./gradlew clean build$ java -jar build/libs/app.jar
