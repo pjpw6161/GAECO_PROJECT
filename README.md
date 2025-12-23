@@ -26,7 +26,7 @@
 | Role | Name |  Github |
 |:---:|:---:|:---:|
 | **Leader** | **박지원**  | [@username](https://github.com/) |
-![MEMBER1](./assets/Member1.png)
+![MEMBER1](./assets/Member1.jpg)
 | **Member** | **신현성**  | [@username](https://github.com/) |
 ![MEMBER2](./assets/Member2.png)
 ---
