@@ -1,6 +1,8 @@
 # 🎮 GAECO : Gamified AI Eco-system
 > **"게이미피케이션 기반 자기계발 플랫폼"**
 
+> ![gif](./assets/signup.gif)
+
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.0-4FC08D?style=flat&logo=vue.js&logoColor=white)
