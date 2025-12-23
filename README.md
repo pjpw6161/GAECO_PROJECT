@@ -28,7 +28,7 @@
 
 | Role | Name | Github | Photo |
 |:---:|:---:|:---:|:---:|
-| **Leader** | **박지원** | [@username](https://github.com/) | <img src="./assets/Member1.jpg" width="120" height="100">|
+| **Leader** | **박지원** | [@username](https://github.com/) | <img src="./assets/Member1.jpg" width="100" height="100">|
 | **Member** | **신현성** | [@username](https://github.com/) | <img src="./assets/Member2.png" width="100"> |
 ---
 
