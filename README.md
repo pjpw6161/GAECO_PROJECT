@@ -38,7 +38,7 @@
 
 ## 🏗️ 시스템 아키텍처 (System Architecture)
 
-![Architecture](./assets/ToolStack.png)
+
 
 * **Backend:** Spring Boot 기반의 REST API 서버 및 WebSocket 메시지 브로커 구축.
 * **Frontend:** Vue 3 Composition API와 Pinia 상태 관리, Phaser 3 게임 엔진 활용.
@@ -50,28 +50,7 @@
 ## 🛠️ 기술 스택 (Tech Stack)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-gray?style=flat&logo=spring&logoColor=white)
-![Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-3.0-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-3-black?style=flat&logo=phaser&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-F1C40F?style=flat&logo=vue.js&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-
-### AI & Data
-![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Latest-DC382D?style=flat&logo=redis&logoColor=white)
-
-### Infrastructure & Tools
-![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Architecture](./assets/ToolStack.png)
 
 ---
 ## 📡 User Flow 
