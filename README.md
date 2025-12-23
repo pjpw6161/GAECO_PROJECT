@@ -1,4 +1,4 @@
-# 🎮 GAECO : Gamified AI Eco-system
+# 🎮 GAECO : Game Coach
 > **"게이미피케이션 기반 자기계발 플랫폼"**
 
 > ![gif](./assets/signup.gif)
